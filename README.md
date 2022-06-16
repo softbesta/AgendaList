@@ -1,3 +1,6 @@
+# Deployed Url
+https://VS-star.github.io/AgendaList
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
