@@ -15,6 +15,11 @@ const Home = () => {
   const selectedCollection = useSelector(state => state.agenda.selected);
   const agendaFunctions = useAgendaFunctions();
 
+  const handleOnClickDel = () => {
+    if (selectedCollection.length <= 0) return;
+    setShowModalDel(!showModalDel);
+  }
+
   const handleItemAdd = (value) => {
     agendaFunctions.addAgenda(value);
   }
@@ -49,7 +54,7 @@ const Home = () => {
             color='danger'
             style={{ backgroundColor: '#d9534f' }}
             size='lg'
-            onClick={() => setShowModalDel(!showModalDel)}
+            onClick={handleOnClickDel}
           >
             <FontAwesomeIcon icon={faMinusCircle} size="lg" />
             &nbsp; Delete
