@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AgendaList/static/css/main.c5bc93ad.css",
+    "main.js": "/AgendaList/static/js/main.3ce61333.js",
+    "static/js/787.28cb0dcd.chunk.js": "/AgendaList/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/AgendaList/index.html",
+    "main.c5bc93ad.css.map": "/AgendaList/static/css/main.c5bc93ad.css.map",
+    "main.3ce61333.js.map": "/AgendaList/static/js/main.3ce61333.js.map",
+    "787.28cb0dcd.chunk.js.map": "/AgendaList/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5bc93ad.css",
+    "static/js/main.3ce61333.js"
+  ]
+}
