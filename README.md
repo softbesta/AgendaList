@@ -1,5 +1,5 @@
 # Deployed Url
-https://VS-star.github.io/AgendaList
+https://softbesta.github.io/AgendaList
 
 # Getting Started with Create React App
 
